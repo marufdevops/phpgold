@@ -1,0 +1,16 @@
+{
+  "name": "marufs-air/php-for-beginners",
+  "authors": [
+    {
+      "name": "Ahmed Maruf",
+      "email": "maruf.devops@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Core\\": "Core/",
+      "Http\\": "Http/"
+    }
+  }
+}
